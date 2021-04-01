@@ -23,6 +23,7 @@
       <h3>总价：{{a}}</h3>
     </table>
   </div>
+  <div>你是猪</div>
 </template>
 
 <script>
